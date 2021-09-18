@@ -14,6 +14,6 @@ class anasayfa extends MainController {
     }
     public function getimage()
     {
-
+        echo "deneme";
     }
 }
